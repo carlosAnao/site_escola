@@ -18,6 +18,12 @@
     font-size: 24px;
   }
   
+  .cabecalho-imagem{
+    width: 110px;
+    height: 90px;
+    border-radius: 30%;
+  }
+
   .escola-imagem{
     width: 30%;
   }
@@ -58,11 +64,11 @@
     padding: 24px 0;
   }
   
-  estudantes-imagem {
+  .estudantes-imagem{
     width: 24px;
   }
 
-  estudantes-icone {
+  .estudantes-icone{
     width: 24px;
     padding: 4px 8px;
   }
