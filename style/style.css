@@ -3,6 +3,12 @@
     padding: 0;
   }
   
+  @import url('https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap');
+
+body{
+  font-family: Cal Sans;
+}
+
   .cabecalho{
     background-color: #424e61; 
     color: white;
