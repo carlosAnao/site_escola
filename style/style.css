@@ -117,4 +117,8 @@ body{
     .escola-conteudo{
       width: 100%;
     }
+
+    .estudantes-todos{
+      grid-template-columns: repeat(auto-fit);
+    }
   }
